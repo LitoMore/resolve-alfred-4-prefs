@@ -1,0 +1,30 @@
+{
+  "name": "resolve-alfred-4-prefs",
+  "version": "0.0.0",
+  "description": "Resolve the path of `Alfred.alfredpreferences` for Alfred 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LitoMore/resolve-alfred-4-prefs.git"
+  },
+  "keywords": [
+    "alfred",
+    "alfred-link",
+    "alfy"
+  ],
+  "author": "LitoMore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LitoMore/resolve-alfred-4-prefs/issues"
+  },
+  "homepage": "https://github.com/LitoMore/resolve-alfred-4-prefs#readme",
+  "devDependencies": {
+    "xo": "^0.24.0"
+  }
+}
