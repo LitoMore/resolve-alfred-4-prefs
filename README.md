@@ -17,6 +17,10 @@ console.log(resolveAlfred4Prefs());
 //=> '/Users/litomore/Library/Application Support/Alfred/Alfred.alfredpreferences'
 ```
 
+## Related
+
+- [reslove-alfred-prefs](https://github.com/SamVerschueren/resolve-alfred-prefs) - Resolve the path of Alfred.alfredpreferences for Alfred 3
+
 ## License
 
 MIT © [LitoMore](https://github.com/LitoMore)
